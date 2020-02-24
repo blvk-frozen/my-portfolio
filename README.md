@@ -1,5 +1,7 @@
 # Luke's Portfolio.
 #### By Luke Gitau
+### Live Link
+https://blvk-frozen.github.io/Delani-Studio/
 ## Description
 This is my personal portfolio.
 ## Setup/Installation Requirements
@@ -13,4 +15,4 @@ There are no known bugs.
 -If you run into any issues or have questions, ideas or concerns, contact me at lukegitaumwangi@gmail.com.
 ### License
 *MIT License*
-Copyright (c) {year} *2020* Luke Gitau**
+Copyright (c) *2020* Luke Gitau**
