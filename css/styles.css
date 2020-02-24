@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-style: italic;
+  align-items: center;
+}
+body {
+  font-style: oblique;
+  border: grey;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aquamarine;
+  background-color: black;
