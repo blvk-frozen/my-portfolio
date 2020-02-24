@@ -15,4 +15,4 @@ There are no known bugs.
 -If you run into any issues or have questions, ideas or concerns, contact me at lukegitaumwangi@gmail.com.
 ### License
 *MIT License*
-Copyright (c) *2020* Luke Gitau**
+Copyright (c) *2020* Luke Gitau
